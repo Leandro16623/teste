@@ -1,0 +1,39 @@
+.principal{
+  background-color: #050505;
+    display: flex;
+    justify-content: space-between;
+    min-height: 85vh;
+    
+
+}
+.segundaria{
+    width: 40vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    border-radius: 0.5vw;
+
+}
+.bnt{
+    padding: 1vw;
+    border-radius: 10vw;
+    background-color: #830202;
+    font-size: 3rem;
+    margin-bottom: 12vh;
+    border: none;
+    
+  }
+.bnt:hover{
+    background-color: rgb(255, 0, 0);
+}
+.pa1{
+    font-size: 2rem;
+}
+.terciaria{
+    display: flex;
+    width: 40vw;
+    margin-top: 2vw;
+    border-radius: 0.5vw;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 5vh;
+}

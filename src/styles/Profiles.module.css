@@ -1,0 +1,50 @@
+.body2 {
+    background-color: #050505;
+}
+
+.nada {
+    background-color: #050505;
+    min-height: 15vw;
+}
+
+.profile {
+    width: 80%;
+    margin-top: 10vw;
+    margin-left: 8.5vw;
+    padding: 20px;
+    border-radius: 1vw;
+    background-color: #333;
+    border: #920000 solid 0.2vw;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.profile p {
+    margin: 5px 0;
+    color: #ddd;
+}
+
+.profile .p1 {
+    font-size: 18px;
+    margin: 10px;
+    line-height: 2;
+}
+.profile .p2 {
+    font-size: 18px;
+    color: #ff5858;
+    line-height: 2;
+}
+
+.voltar{
+    margin-left: 80%;
+    margin-top: -1vh;
+}
+
+.voltar a{
+    background-color: #920000;
+    padding: 1vw 3vw;
+    border-radius: 8vw;
+}
+
+.voltar a:hover{
+    background-color: #470000;
+}
